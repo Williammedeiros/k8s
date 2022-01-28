@@ -10,8 +10,8 @@
       
     project: default
     source:
-      path: k8s
-      repoURL: https://github.com/KubeDev/k8s-web-color-page.git
+      path: prod
+      repoURL: https://github.com/Williammedeiros/k8s.git
       targetRevision: HEAD  
     syncPolicy:
       syncOptions: 
@@ -34,8 +34,8 @@
       
     project: default
     source:
-      path: k8s
-      repoURL: https://github.com/KubeDev/k8s-web-color-page.git
+      path: homolog
+      repoURL: https://github.com/Williammedeiros/k8s.git
       targetRevision: HEAD  
     syncPolicy:
       syncOptions: 
